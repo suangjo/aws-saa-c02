@@ -1,0 +1,8 @@
+- Region 地区
+- Availability Zone 可用区
+- On-premise 本地部署的
+- Edge Location 站点
+- Elasticity 弹性
+- Scalability 扩展性
+- gateway 网关
+- seamless 无缝的
